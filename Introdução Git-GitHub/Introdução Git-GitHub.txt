@@ -1,0 +1,9 @@
+Link do Git: https://git-scm.com/
+
+Comandos básicos do git:
+
+git status -> Exiba a condição atual da árvore de trabalho.
+git clone -> Clona um repositório em um novo diretório.
+git add . -> Adiciona o conteúdo dos arquivos ao índice.
+git commit -m "" -> Grava as alterações para o repositório.
+git push -> Atualiza os refs remotos através da associação dos objetos.
